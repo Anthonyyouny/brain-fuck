@@ -1,0 +1,11 @@
+This is a folder about brain f**k.
+
+It begun with the pwn `brain f**k` in pwnable.kr
+It has been exploited with pwntools , you can run `python bf.py` to get the flag.
+the main idea for the exploit is 'replace the got',to run `system('/bin/sh')`.
+
+And the rest file is a bf2c emulation and an example.`bf2c.cpp` translate bf to c,and you can run it of course.
+
+:P
+
+
